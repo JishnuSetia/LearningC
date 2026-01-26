@@ -11,29 +11,6 @@ All coding is done using **`vi` in the terminal**, compiled and run via a custom
 
 ---
 
-## 📁 Repository Structure
-
-Each file represents a **lesson/topic**, named sequentially for clarity:
-
-L1-Intro.c
-L2-printf.c
-L3-comments.c
-L4-variables.c
-L5-TypeConversion.c
-L6-Operators.c
-L7-Booleans.c
-L8-IfElseIfElse.c
-L9-SwitchCase.c
-L10-WhileLoops.c
-L11-ForLoops.c
-L12-BreakContinue.c
-L13-Arrays.c
-L14-Strings.c
-
-> The numbering reflects the learning order, not just file creation order.
-
----
-
 ## 🛠️ How to Run the Code
 
 This repo includes a simple shell script to compile and run any C file.
