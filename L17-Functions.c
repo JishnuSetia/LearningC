@@ -34,6 +34,8 @@ void printArrNums(int myNumbers[5]) {
   }
 }
 
+int sub(int x, int y);
+
 int main(void){
 	//Functions
 	//A function is a block of code which only runs when it is called.
@@ -44,6 +46,10 @@ int main(void){
 	int nums[] = {1,2,3,4,5};
 	printArrNums(nums);
         printArrNums(nums);
-
+	printf("%d\n",sub(2,1));
 	return 0;
+}
+
+int sub(int x, int y){
+	return x-y;
 }
